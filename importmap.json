@@ -1,5 +1,6 @@
 {
   "imports": {
-    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js"
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+    "@hrapp/root-config": "https://hrapp-root-config.vercel.app/hrapp-root-config.js"
   }
 }
