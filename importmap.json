@@ -1,6 +1,7 @@
 {
   "imports": {
     "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
-    "@thaddeusjiang/auth": "https://spa-auth.vercel.app/thaddeusjiang-auth.js"
+    "@thaddeusjiang/auth": "https://spa-auth.vercel.app/thaddeusjiang-auth.js",
+    "@thaddeusjiang/hr": "https://spa-hr.vercel.app/thaddeusjiang-hr.js"
   }
 }
