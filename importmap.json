@@ -1,5 +1,6 @@
 {
   "imports": {
+    "@thaddeusjiang/styleguide": "https://spa-styleguide.vercel.app/thaddeusjiang-styleguide.js",
     "@thaddeusjiang/auth": "https://spa-auth.vercel.app/thaddeusjiang-auth.js",
     "@thaddeusjiang/hr": "https://spa-hr.vercel.app/thaddeusjiang-hr.js"
   }
